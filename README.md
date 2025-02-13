@@ -1,6 +1,6 @@
 # Product Registration and Listing
 
-This project is a ![Captura de tela 2025-01-27 142641](https://github.com/user-attachments/assets/5d660bb6-4c6e-4b7f-b318-67f69f32334d)
+![Captura de tela 2025-01-27 142641](https://github.com/user-attachments/assets/5d660bb6-4c6e-4b7f-b318-67f69f32334d)
 
 This project is a simple Python application with a graphical interface for product registration and listing. It uses the **Tkinter** library for the UI.
 
